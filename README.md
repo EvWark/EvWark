@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Evie
+- 👀 I’m interested in cpp code
+- 🌱 I’m currently learning c like languages, although I'm a undergrad so anythin really
+- 😄 Pronouns: She/They
+- ⚡ Fun fact: Big fan of trains
